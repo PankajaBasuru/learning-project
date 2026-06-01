@@ -1,0 +1,6 @@
+x=(1,2,5,3)
+y=(5,7)
+a=set(x)
+b=set(y)
+z=a.intersection(b)
+print(z)

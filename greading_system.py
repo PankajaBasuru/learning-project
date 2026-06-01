@@ -1,0 +1,11 @@
+n=int(input("marks"))
+if(n>=75):
+    print("A")
+elif(n>=65):
+    print("B")
+elif(n>=55):
+    print("C")
+elif(n>=35):
+    print("S")
+else:
+    print("F")
